@@ -22,8 +22,6 @@ Provides an overall summary of the real-estate dataset and housing market.
 - Waterfront vs Non-Waterfront Distribution
 - Interactive slicers for City, Date, Bedrooms, and Waterfront
 
-![Market Overview](screenshots/market_overview.png)
-
 ### 2. Property Analysis
 Explores the relationship between property features and house prices.
 

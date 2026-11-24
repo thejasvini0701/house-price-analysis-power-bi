@@ -80,8 +80,5 @@ The dataset includes information such as:
 - Property condition analysis
 - Housing distribution across cities and ZIP codes
 
-## Project Status
-Completed — Power BI dashboard development and visualization.
-
 ## Dashboard Preview
 Dashboard screenshots will be added to this repository.
